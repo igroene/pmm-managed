@@ -494,8 +494,8 @@
   revision = "e66cc9d89f9739d5f841f847877f12443b37484a"
 
 [[projects]]
-  branch = "PMM-7358-manage-components"
-  digest = "1:a0a18eacf4a62bf69e3ab1158d9be26de801583705bdc6b9bfb35a6fc13c71d0"
+  branch = "PMM-7863-add-haproxy-version-management"
+  digest = "1:c3006adba104ca5722585f447007c7afe6ca717df620dc07450b7fc10054614c"
   name = "github.com/percona/pmm"
   packages = [
     "api/agentpb",
@@ -521,7 +521,7 @@
     "version",
   ]
   pruneopts = "NUT"
-  revision = "f115752b0d23197effd539c0d3c20ae30e079f45"
+  revision = "3b59f7d7186fa680673da3fe60da03f4bca12261"
 
 [[projects]]
   digest = "1:65230c46134944510adb8844cf4098b5c9fdd1dd11992c3980afc1d3e0c8e4bd"
